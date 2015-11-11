@@ -1,4 +1,4 @@
 # forGitsSake
 missingMaster
 
-learning Git step by step with conflicts
+still experimentally learning Git step by step
